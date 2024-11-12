@@ -1,0 +1,28 @@
+.contenedor {
+    max-width: 55%;
+    margin: 0 auto;
+    border: solid 1px;
+    padding: 5%;
+  }
+  
+  .borde {
+    border-bottom: solid;
+    color: rgb(243, 77, 11);
+  }
+  
+  .colorh3 {
+    color: orangered;
+  }
+  
+  .puntos {
+    list-style: none;
+  }
+  
+  .paddingp {
+    margin: 0%;
+  }
+  
+  .espacio {
+    margin-left: 5%;
+  }
+
